@@ -5,7 +5,7 @@ theme = 'blist'
 [params]
       introTitle = "I am Mahdir!"
       introSubtitle = "I don't like labels, and neither does this website. I post whatever I like."
-      introPhoto = "/intro.webp"
+      introPhoto = "https://mahdirdrmc.github.io/my-blog-site-blist/intro.webp"
   # Enable the darkmode toggle in header
   darkModeToggle = true
   
