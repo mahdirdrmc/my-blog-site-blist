@@ -1,4 +1,4 @@
-baseURL = 'https://mahdir.xyz'
+baseURL = 'https://mahdirdrmc.github.io/my-blog-site-blist'
 languageCode = 'en-us'
 title = "Mahdir's Blog"
 theme = 'blist'
